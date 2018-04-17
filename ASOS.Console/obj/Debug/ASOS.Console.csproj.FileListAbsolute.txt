@@ -1,0 +1,7 @@
+e:\projects\asos\ASOS.Console\ASOS.Console\obj\Debug\ASOS.Console.csprojResolveAssemblyReference.cache
+e:\projects\asos\ASOS.Console\ASOS.Console\obj\Debug\ASOS.Console.csproj.CoreCompileInputs.cache
+e:\projects\asos\ASOS.Console\ASOS.Console\bin\Debug\ASOS.Console.exe.config
+e:\projects\asos\ASOS.Console\ASOS.Console\bin\Debug\ASOS.Console.exe
+e:\projects\asos\ASOS.Console\ASOS.Console\bin\Debug\ASOS.Console.pdb
+e:\projects\asos\ASOS.Console\ASOS.Console\obj\Debug\ASOS.Console.exe
+e:\projects\asos\ASOS.Console\ASOS.Console\obj\Debug\ASOS.Console.pdb
